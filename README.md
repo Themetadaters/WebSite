@@ -31,7 +31,7 @@ When the PR is submitted, it will be reviewed and, if accepted, merged into the 
 
 提交 Pull request 后，管理员审核通过后，就会合并到主分支中，并且发布到官网。若有疑问，可以发邮件到 [hactrox@gmail.com](mailto:hactrox@gmail.com)
 
-### dApp 要求
+### documentation App 要求
 
 - 需要添加完善的 dApp 信息，包括但不限于 **封面图片**、**名称**、**作者**、**描述**、**官网**、**GitHub**，没有 GitHub 的项目将不被审核通过。
 - 所添加的 dApp 必需已在 main net 或 test net 上发布
